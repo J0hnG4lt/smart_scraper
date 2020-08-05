@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "$HOME/.cache/pypoetry/virtualenvs/smart-scraper-rg4S2k8o-py3.7/bin/python",
+    "python.venvPath": "$HOME/.cache/pypoetry/virtualenvs",
+    "python.linting.enabled": true
+}
